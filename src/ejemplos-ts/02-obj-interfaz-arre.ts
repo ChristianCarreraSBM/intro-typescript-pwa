@@ -1,6 +1,4 @@
 
-
-//objeto en ts
 //definicion de una interface
 interface Alumno{
     matricula:number;
@@ -26,6 +24,5 @@ tem.push(232);
 
 
 
-
-console.log(alumno);
-
+console.log(mascotas);
+console.table(alumno);
